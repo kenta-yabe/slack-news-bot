@@ -3,5 +3,5 @@ Janome==0.3.9
 gensim==3.7.3
 requests
 joblib==0.13.2
-scikit-learn==0.21.2
+scikit-learn
 networkx==2.3
